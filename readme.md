@@ -10,6 +10,7 @@ html, css
 
 #### Links
 [Preview] of the footer
+
 My [introduction] page
 
    [Preview]: <https://tothadi.github.io/simple-footer/>
