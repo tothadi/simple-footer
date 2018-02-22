@@ -1,1 +1,1 @@
-# simple-footer
+Made in a codeberry lesson.
