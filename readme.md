@@ -7,6 +7,8 @@ In this repo you can find a really simple footer sample containing the following
 
 #### Built with
 html, css
+
+#### Links
 [Preview] of the footer
 My [introduction] page
 
